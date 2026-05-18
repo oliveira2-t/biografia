@@ -1,0 +1,20 @@
+body{
+ background-color: 
+ rgb(71, 178, 240);
+ 
+}
+
+
+div{
+    width: 2000px;
+    height: 1500px;
+    align-self: center;
+    background-color: rgb(71, 172, 255);
+}
+img{
+ width: 350px;
+height: auto;
+}
+p{
+    font-size: 19px;
+}
